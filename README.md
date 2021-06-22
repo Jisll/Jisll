@@ -1,4 +1,4 @@
-### <img src="./img/wave.gif" width="28"> Hello it's me Ish∆n.
+Hey you, its me Jisll!
 
 General about me
 
