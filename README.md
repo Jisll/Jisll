@@ -16,7 +16,7 @@ General about me
 
 ###
 
-I strongly believe that we, the tech industry professionals, need to learn and innovate. There are constant changes in technologies in the tech market that we need to update with. The only thing that is constant is change. Speaking of myself, I would describe myself as a cross between a developer(fr) and a designer. I like front-end development with React/Gatsby/Next/Svelte. I love trying out new technologies and updating with modern tools that make our lives easier.
+I strongly believe that we, the tech industry professionals, need to learn and innovate. There are constant changes in technologies in the tech market that we need to update with. The only thing that is constant is change. Speaking of myself, I would describe myself as a cross between a developer and a designer. I like front-end development with React/Gatsby/Next/Svelte. I love trying out new technologies and updating with modern tools that make our lives easier.
 
 I am currently learning some Python as well.
 
