@@ -12,7 +12,7 @@ General about me
 
 🎥 [Subscribe my Youtube](https://www.youtube.com/channel/UCDkT7vpO3uutNMEg84QOIRA)
 
-🐣 [See my Twitter](https://twitter.com/OGRealOpac)
+🐣 [See my Twitter](https://twitter.com/OGRealOpach)
 
 ###
 
