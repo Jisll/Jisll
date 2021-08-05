@@ -22,4 +22,14 @@ I am currently learning some Python as well.
 
 Happy Coding!
 
+Tools and Languages!
+[JavaScript](https://www.javascript.com/)
+[TypeScript](https://www.typescriptlang.org/)
+[Node.js](https://nodejs.org/)
+[Python](https://www.python.org/)
+[Docker](https://www.docker.com/)
+[PostgreSQL](https://www.mongodb.com/)
+[MongoDB](https://www.postgresql.org/)
+
+
 <img src="https://github-readme-stats.vercel.app/api?username=Jisll&&show_icons=true&title_color=296ecb&icon_color=296ecb&text_color=9f9f9f&bg_color=0d1117">
