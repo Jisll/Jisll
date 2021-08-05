@@ -23,12 +23,12 @@ I am currently learning some Python as well.
 Happy Coding!
 
 Tools and Languages!
-[JavaScript](https://www.javascript.com/)
-[TypeScript](https://www.typescriptlang.org/)
-[Node.js](https://nodejs.org/)
-[Python](https://www.python.org/)
-[Docker](https://www.docker.com/)
-[PostgreSQL](https://www.mongodb.com/)
+[JavaScript](https://www.javascript.com/), 
+[TypeScript](https://www.typescriptlang.org/), 
+[Node.js](https://nodejs.org/), 
+[Python](https://www.python.org/), 
+[Docker](https://www.docker.com/), 
+[PostgreSQL](https://www.mongodb.com/), 
 [MongoDB](https://www.postgresql.org/)
 
 
