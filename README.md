@@ -29,8 +29,8 @@ Tools and Languages:
 [☕ Java](https://www.oracle.com/java/), 
 [🐍 Python](https://www.python.org/), 
 [🐳 Docker](https://www.docker.com/), 
-[🐘 PostgreSQL](https://www.mongodb.com/), 
-[🍃 MongoDB](https://www.postgresql.org/)
+[🐘 PostgreSQL](https://www.postgresql.org/), 
+[🍃 MongoDB](https://www.mongodb.com/)
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=Jisll&&show_icons=true&title_color=296ecb&icon_color=296ecb&text_color=9f9f9f&bg_color=0d1117">
