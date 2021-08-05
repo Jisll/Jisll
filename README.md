@@ -26,4 +26,4 @@ Happy Coding!
 
 [![](https://github-readme-medium.herokuapp.com/?username=ishan02016)]
 
-<img src="https://github-readme-stats.vercel.app/api?username=Jisll&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+<img src="https://github-readme-stats.vercel.app/api?username=Jisll&&show_icons=true&title_color=296ecb&icon_color=296ecb&text_color=9f9f9f&bg_color=0d1117">
