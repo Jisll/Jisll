@@ -1,8 +1,6 @@
 <a href="#"><img width="100%" height="auto" src="https://cdn.discordapp.com/attachments/844614074519781407/882461353649000508/githubjisll.png" height="175px"/></a>
 
 <h1 align="center"></h1>
-<h3 align="center">I'm a passionate Full Stack Developer from India.</h3>
-General about me
 
 - 🎤 I am a programmer in the programming language Javascript and Python!
 - 🛸 Learn every day, currently learning to master Malbolge.
