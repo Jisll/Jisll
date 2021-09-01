@@ -9,9 +9,7 @@ General about me
 - 🌋 I am always looking for challenging work opportunities ahead.
 - 📬 How to reach me: <a href="mailto:maurice403298z2@gmail.com">Let's get in touch!</a>
 - ♀️  You should overcome your limit, and make it!
-
-(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/264642...")
-
+- 
 ### Other places where you can find me 
 
 🎥 [Subscribe my Youtube](https://www.youtube.com/channel/UCDkT7vpO3uutNMEg84QOIRA)
