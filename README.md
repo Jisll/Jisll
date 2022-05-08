@@ -34,4 +34,4 @@ Tools and Languages:
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=Jisll&&show_icons=true&title_color=296ecb&icon_color=296ecb&text_color=9f9f9f&bg_color=0d1117">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jisll)](https://github.com/anuraghazra/github-readme-stats)
+<im src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jisll">
