@@ -34,4 +34,3 @@ Tools and Languages:
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=Jisll&&show_icons=true&title_color=296ecb&icon_color=296ecb&text_color=9f9f9f&bg_color=0d1117">
-[![Image of my-profile-views-counter](https://github.com/Jisll/my-profile-views-counter/blob/master/svg/372372861/badge.svg)](https://github.com/Jisll/my-profile-views-counter/blob/master/readme/372372861/week.md)
