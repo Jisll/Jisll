@@ -2,7 +2,7 @@
 
 <h1 align="center"></h1>
 
-- 🎤 I am a programmer in the programming language Javascript and Python!
+- 🎤 I am a programmer in the programming language C# and Java!
 - 🛸 Learn every day, currently learning to master Malbolge.
 - 🌋 I am always looking for challenging work opportunities ahead.
 - 📬 How to reach me: <a href="mailto:maurice403298z2@gmail.com">Let's get in touch!</a>
