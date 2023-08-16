@@ -4,34 +4,38 @@
   </a>
 </div>
 
-# Hello, I'm Maurice
+<h1 align="center">Hello, I'm Maurice 👋</h1>
 
-🎤 Programmer proficient in C# and Java
+<p align="center">
+  🎤 Programmer proficient in C# and Java<br>
+  🛸 Constantly learning, currently mastering Malbolge<br>
+  🌋 Seeking challenging work opportunities<br>
+  ♀️ Advocate for pushing past limits
+</p>
 
-🛸 Constantly learning, currently mastering Malbolge
+<p align="center">
+  I strongly believe in continuous learning and innovation within the tech industry. Adapting to evolving technologies is crucial, as change is the only constant. I describe myself as a fusion between a developer and a designer, with a passion for front-end development using React, Gatsby, Next, and Svelte. Embracing new technologies and modern tools is my way of making our lives easier.
+</p>
 
-🌋 Seeking challenging work opportunities
+<p align="center">
+  Currently expanding my skills with Python.
+</p>
 
-♀️ Advocate for pushing past limits
+<h2 align="center">Skills and Languages 🚀</h2>
 
-I strongly believe in continuous learning and innovation within the tech industry. Adapting to evolving technologies is crucial, as change is the only constant. I describe myself as a fusion between a developer and a designer, with a passion for front-end development using React, Gatsby, Next, and Svelte. Embracing new technologies and modern tools is my way of making our lives easier.
+<p align="center">
+  <a href="https://www.javascript.com/">💡 JavaScript</a> &bull;
+  <a href="https://www.typescriptlang.org/">🧰 TypeScript</a> &bull;
+  <a href="https://nodejs.org/">⚙️ Node.js</a> &bull;
+  <a href="https://www.oracle.com/java/">☕ Java</a> &bull;
+  <a href="https://www.python.org/">🐍 Python</a> &bull;
+  <a href="https://www.docker.com/">🐳 Docker</a> &bull;
+  <a href="https://www.postgresql.org/">🐘 PostgreSQL</a> &bull;
+  <a href="https://www.mongodb.com/">🍃 MongoDB</a>
+</p>
 
-Currently expanding my skills with Python.
+<h2 align="center">GitHub Stats 📊</h2>
 
-## Skills and Languages
-
-[💡 JavaScript](https://www.javascript.com/),
-[🧰 TypeScript](https://www.typescriptlang.org/),
-[⚙️ Node.js](https://nodejs.org/), 
-[☕ Java](https://www.oracle.com/java/), 
-[🐍 Python](https://www.python.org/), 
-[🐳 Docker](https://www.docker.com/), 
-[🐘 PostgreSQL](https://www.postgresql.org/), 
-[🍃 MongoDB](https://www.mongodb.com/)
-
-## GitHub Stats
-
-<div align="center">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Jisll&show_icons=true&title_color=296ecb&icon_color=296ecb&text_color=9f9f9f&bg_color=0d1117" alt="GitHub Stats" />
-</div>
-</div>
+</p>
