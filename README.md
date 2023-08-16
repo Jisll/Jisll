@@ -7,8 +7,11 @@
 # Hello, I'm Maurice
 
 🎤 Programmer proficient in C# and Java
+
 🛸 Constantly learning, currently mastering Malbolge
+
 🌋 Seeking challenging work opportunities
+
 ♀️ Advocate for pushing past limits
 
 I strongly believe in continuous learning and innovation within the tech industry. Adapting to evolving technologies is crucial, as change is the only constant. I describe myself as a fusion between a developer and a designer, with a passion for front-end development using React, Gatsby, Next, and Svelte. Embracing new technologies and modern tools is my way of making our lives easier.
