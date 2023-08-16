@@ -1,19 +1,22 @@
-<a href="#"><img width="100%" height="auto" src="https://cdn.discordapp.com/attachments/844614074519781407/882461353649000508/githubjisll.png" height="175px"/></a>
+<div align="center">
+  <a href="#">
+    <img width="100%" height="auto" src="https://cdn.discordapp.com/attachments/844614074519781407/882461353649000508/githubjisll.png" alt="Profile Banner" />
+  </a>
+</div>
 
-<h1 align="center"></h1>
+# Hello, I'm Maurice
 
-- 🎤 I am a programmer in the programming language C# and Java!
-- 🛸 Learn every day, currently learning to master Malbolge.
-- 🌋 I am always looking for challenging work opportunities ahead.
-- ♀️  You should overcome your limit, and make it!
+🎤 Programmer proficient in C# and Java
+🛸 Constantly learning, currently mastering Malbolge
+🌋 Seeking challenging work opportunities
+♀️ Advocate for pushing past limits
 
-I strongly believe that we, the tech industry professionals, need to learn and innovate. There are constant changes in technologies in the tech market that we need to update with. The only thing that is constant is change. Speaking of myself, I would describe myself as a cross between a developer and a designer. I like front-end development with React/Gatsby/Next/Svelte. I love trying out new technologies and updating with modern tools that make our lives easier.
+I strongly believe in continuous learning and innovation within the tech industry. Adapting to evolving technologies is crucial, as change is the only constant. I describe myself as a fusion between a developer and a designer, with a passion for front-end development using React, Gatsby, Next, and Svelte. Embracing new technologies and modern tools is my way of making our lives easier.
 
-I am currently learning some Python as well.
+Currently expanding my skills with Python.
 
-Happy Coding!
+## Skills and Languages
 
-Tools and Languages: 
 [💡 JavaScript](https://www.javascript.com/),
 [🧰 TypeScript](https://www.typescriptlang.org/),
 [⚙️ Node.js](https://nodejs.org/), 
@@ -23,5 +26,9 @@ Tools and Languages:
 [🐘 PostgreSQL](https://www.postgresql.org/), 
 [🍃 MongoDB](https://www.mongodb.com/)
 
+## GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=Jisll&&show_icons=true&title_color=296ecb&icon_color=296ecb&text_color=9f9f9f&bg_color=0d1117">
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Jisll&show_icons=true&title_color=296ecb&icon_color=296ecb&text_color=9f9f9f&bg_color=0d1117" alt="GitHub Stats" />
+</div>
+</div>
