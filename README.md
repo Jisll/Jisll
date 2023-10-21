@@ -1,7 +1,3 @@
-<div align="center">
-  <img width="100%" height="auto" src="https://cdn.discordapp.com/attachments/844614074519781407/882461353649000508/githubjisll.png" alt="Profile Banner" />
-</div>
-
 <h1 align="center">Hey there, I'm Maurice! 👨‍💻</h1>
 
 <div align="center">
