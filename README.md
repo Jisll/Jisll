@@ -1,17 +1,15 @@
 <div align="center">
-  <a href="#">
-    <img width="100%" height="auto" src="https://cdn.discordapp.com/attachments/844614074519781407/882461353649000508/githubjisll.png" alt="Profile Banner" />
-  </a>
+  <img width="100%" height="auto" src="https://cdn.discordapp.com/attachments/844614074519781407/882461353649000508/githubjisll.png" alt="Profile Banner" />
 </div>
 
-<h1 align="center">Welcome to My Digital World, I'm Maurice! 👨‍💻</h1>
+<h1 align="center">Hey there, I'm Maurice! 👨‍💻</h1>
 
 <div align="center">
   <p>
-    💻 Developer<br>
-    🛠️ Skilled in C# & Java<br>
-    🚀 Exploring new horizons, currently deciphering Malbolge<br>
-    🌐 Passionate about Web Development & Innovations<br>
+    💼 Full-Stack Developer<br>
+    🛠️ Expertise in C# & Java<br>
+    🚀 Currently decoding Malbolge<br>
+    🌐 Passionate about Web Development & Innovation<br>
     📣 Advocate for pushing boundaries & continuous learning
   </p>
 </div>
@@ -43,7 +41,7 @@
 
 <p align="center">
   🌟 Multi-Company Developer<br>
-  🌟 Own Software-Engineer<br>
+  🌟 Independent Software Engineer<br>
   🌟 Multi-Company Designer<br>
 </p>
 
