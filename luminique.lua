@@ -1,10 +1,9 @@
 --[[	
 
 	|	LUMINIQUE	UI	|
-		THIS UI MAKE BY [Your Name]		
+		THIS UI MAKE BY JISLL	
 		original Luminique
-		
-		[https://yourwebsite.com/] - custom UI design
+	
 ]]
 
 local LocalPlayer = game:GetService('Players').LocalPlayer;
