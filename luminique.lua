@@ -1,6 +1,3 @@
-Hier ist der komplette Code, bei dem der Name "NEVERLOSE" durch "Luminique" ersetzt wurde und das Design entsprechend angepasst wurde:
-
-```lua
 --[[	
 
 	|	LUMINIQUE	UI	|
